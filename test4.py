@@ -39,3 +39,5 @@ print(c())
 # count survives because something still points to it. Python never destroys objects that still have something pointing to them.
 
 # This is called a closure — a function that remembers the variables from the scope it was born in, even after that scope is gone.
+
+#new changes
